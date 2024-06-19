@@ -8,9 +8,14 @@
 * ------------------------------------------------------------
 */
 {
-  "current": "Default",
-  "presets": {
-    "Default": {
+  "sections": {
+    "template": {
+      "type": "template-404",
+      "settings": {
+      }
     }
-  }
+  },
+  "order": [
+    "template"
+  ]
 }
